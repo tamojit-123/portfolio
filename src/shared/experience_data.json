@@ -1,0 +1,113 @@
+{
+  "title": "Experience",
+  "subtitle": "Work, Internship and Volunteer experience",
+  "description": "I have worked with many evolving startups as Developer and ambassador. I have also worked with some well established companies like Microsoft. I love organising events and that is why I am also involved with many opensource communities as a representative and a campus ambassador.",
+  "header_image_path": "experience.svg",
+  "sections": [
+    {
+      "title": "Work",
+      "experiences": [
+        {
+          "title": "Full stack web developer",
+          "company": "StudyMatrix™",
+          "company_url": "https://studymatrix.netlify.app/",
+          "logo_path": "studymatrix.png",
+          "duration": "June 2019 - PRESENT",
+          "location": "Kolkata, West Bengal",
+          "description": "I am working as a full stack web developer and backend engineer working in (This Website is built on Firebase and firebase real time database as backend and HTML, CSS, JavaScript framework as frontend with Google APIs.)",
+          "color": "#0879bf"
+        },
+        {
+          "title": "Student Member",
+          "company": "Industry Institute Collaboration Association",
+          "company_url": "http://www.nationalitassociation.in/",
+          "logo_path": "nationalit.png",
+          "duration": "July 2019 - Dec 2019",
+          "location": "Kolkata, West Bengal",
+          "description": "I worked as a Student Member in project. One Premier Organization with Non-Profit Status | Regd. Under Govt. of WB Inspired By National Task Force on IT & SD Govt. of India. National IT and Cyber Security Research Association Registered Body Under Govt.of WB Based on TR Act - Section-4. Associated with Association of Research Scholars, Association of Fellow Engineers, Offering Honorary Membership, Fellowship to Eminent Educationist.",
+          "color": "#9b1578"
+        },
+        {
+          "title": "Artificial Intelligence",
+          "company": "Indian Society of Innovative Project Research",
+          "company_url": "http://csksrc.org/index.html",
+          "logo_path": "niit.png",
+          "duration": "Jun 2019 - Jul 2019",
+          "location": "Kolkata, West Bengal",
+          "description": "The project was done with the help of Python Programming And Data Visualisation (Data Science & AI) National Institute of Industrial Training Issued By: Indian Society of Innovative Project Research 2019 One Premier Organization with Non-Profit Status | Regd. Under Govt. of WB | Reg. No: IV-190305335/2018 Inspired By: National Task Force on IT & SD Govt. of India Program Code: SVT-19-XII-005",
+          "color": "#fc1f20"
+        }
+      ]
+    },
+    {
+      "title": "Internships",
+      "experiences": [
+        {
+          "title": "Assit. Web Developer",
+          "company": "PCS Global Pvt. Ltd.",
+          "company_url": "https://www.pcsglobal.in/",
+          "logo_path": "pcs.jpg",
+          "duration": "May 2019 - Sep 2019",
+          "location": "Kolkata, West Bengal",
+          "description": "I have worked on project for clients given to the company, worked on Java, MySql and server and backend development etc.",
+          "color": "#ee3c26"
+        },
+        {
+          "title": "Virtual Internship in documentation",
+          "company": "Microsoft",
+          "company_url": "https://www.microsoft.com/en-in",
+          "logo_path": "microsoft_logo.png",
+          "duration": "2nd July 2020",
+          "location": "work from home",
+          "description": "Over the period of July 2020, Tamojit Das has completed practical task modules in: 1. Welcome to your Virtual Experience 2. Preparing for your Virtual Experience 3. Campus to Corporate: Business Foundation Skills 4. Campus to Corporate: Work Ready Skills 5. Work Ready Skills 6. Technical Engineering skill",
+          "color": "#ee3c26"
+        }
+      ]
+    },
+    {
+      "title": "Volunteer experience",
+      "experiences": [
+        {
+          "title": "Campus Ambassador",
+          "company": "Eximius - IIMB",
+          "company_url": "https://eximius-iimb.com/",
+          "logo_path": "eximius.jpg",
+          "duration": "May 2019 - Aug 2020",
+          "location": "Bangalore, Karnataka",
+          "description": "ECA0323- Worked as a campus ambassador, representing my campus and coordinating various companies like HDFC etc. and Guests, entrepreneurs and guiding them and coordinating them through everything during event.",
+          "color": "#4285F4"
+        },
+        {
+          "title": "All India Campus Ambassador",
+          "company": "Awign",
+          "company_url": "https://www.awign.com/",
+          "logo_path": "awign.png",
+          "duration": "Apr 2019 - Jun 2020",
+          "location": "Kolkata, West Bengal",
+          "description": "Collecting information through social media, and interacting participants and clients through social media and managing social media.",
+          "color": "#D83B01"
+        },
+        {
+          "title": "Arctic Code Vault Contributor",
+          "company": "Github",
+          "company_url": "https://github.com/tamojit-123",
+          "logo_path": "github_logo.png",
+          "duration": "July 2019 - PRESENT",
+          "location": "Work From Home",
+          "description": "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, github, firebase etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+          "color": "#181717"
+        },
+        {
+          "title": "Developer Program Member",
+          "company": "Github",
+          "company_url": "https://github.com/tamojit-123",
+          "logo_path": "github_logo.png",
+          "duration": "July 2020 - PRESENT",
+          "location": "Work From Home",
+          "description": "I am actively contributing to many opensource projects with github API. I have contributed to projects of organisations like Tensorflow, github, firebase etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
+          "color": "#181717"
+        }
+      ]
+    }
+  ]
+}
