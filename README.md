@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/banner.gif" align="center" height="150" />
+  <img src="images/banner.gif" align="center" />
 </p>
 
 <h1 align="center">Developer Portfolio 🔥 </h1> 
