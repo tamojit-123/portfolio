@@ -1,13 +1,53 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyMjQyNzU2MzU=",
-      "name": "studyportal",
-      "createdAt": "2019-11-26T20:01:56Z",
-      "url": "https://github.com/tamojit-123/studyportal",
-      "description": "study portal website",
+      "id": "MDEwOlJlcG9zaXRvcnkyMjM2OTk5NDk=",
+      "name": "Credit-Card-Fraud-Detection",
+      "createdAt": "2019-11-24T06:02:33Z",
+      "url": "https://github.com/tamojit-123/Credit-Card-Fraud-Detection",
+      "description": "Credit Card Fraud Detection Using Machine Learning With Python And TensorFlow.",
       "isFork": false,
       "languages": [
+        {
+          "name": "Jupyter Notebook",
+          "iconifyClass": "logos-jupyter"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzMzM3Mjk3NTY=",
+      "name": "developerPortfolio",
+      "createdAt": "2021-01-28T10:54:02Z",
+      "url": "https://github.com/tamojit-123/developerPortfolio",
+      "description": "A Complete Customizable Software Developer Portfolio Template ⚡ which lets to showcase work and provides each and every detail about Software Developer.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
+        {
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        }
+      ]
+    },
+    {
+      "id": "R_kgDOGui1Zw",
+      "name": "to-do-tracker",
+      "createdAt": "2022-01-24T12:38:29Z",
+      "url": "https://github.com/tamojit-123/to-do-tracker",
+      "description": "Todo Tracker application allows user to add todo, assign categories to them and set reminders.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        },
         {
           "name": "HTML",
           "iconifyClass": "logos-html-5"
@@ -17,79 +57,17 @@
           "iconifyClass": "logos-css-3"
         },
         {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
+          "name": "Java",
+          "iconifyClass": "logos-java"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "🔥 The Complete Customizable Software Developer Portfolio Template which lets you showcase your work and provides each and every detail about you as Software Developer.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkyMTgyODI0NTM=",
-      "name": "developerFolio",
-      "createdAt": "2019-10-29T12:32:05Z",
-      "url": "https://github.com/saadpasta/developerFolio",
-      "description": "🚀 Software Developer Portfolio Template that helps you showcase your work and skills as a software developer.",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkzMjA4NzU0MDk=",
-      "name": "Web-chat-with-firebase",
-      "createdAt": "2020-12-12T16:36:59Z",
-      "url": "https://github.com/tamojit-123/Web-chat-with-firebase",
-      "description": "Realtime webbased chat with firebase",
-      "isFork": false,
-      "languages": [
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
-    },
-    {
-      "id": "MDEwOlJlcG9zaXRvcnkxODIzOTAzOTQ=",
-      "name": "FreshFoodCart",
-      "createdAt": "2019-04-20T10:10:21Z",
-      "url": "https://github.com/tamojit-123/FreshFoodCart",
-      "description": "online grocery application with ordering. ",
+      "id": "R_kgDOGJWyDw",
+      "name": "TheJukeBox",
+      "createdAt": "2021-10-01T12:47:20Z",
+      "url": "https://github.com/tamojit-123/TheJukeBox",
+      "description": null,
       "isFork": false,
       "languages": [
         {
@@ -99,16 +77,38 @@
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyMjM2OTk5NDk=",
-      "name": "Credit-Card-Fraud-Detection",
-      "createdAt": "2019-11-24T06:02:33Z",
-      "url": "https://github.com/tamojit-123/Credit-Card-Fraud-Detection",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjUwMTg2MzY=",
+      "name": "io-briefs",
+      "createdAt": "2020-12-28T13:21:28Z",
+      "url": "https://github.com/tamojit-123/io-briefs",
+      "description": "⚙ I / O Briefs is the trusted \"Blog\" | platform for education, learning, access various contents like code etc. where everyone can raise questions and issues and resolves any anomalies that we face in our daily life or come across various problems as a developer. This is home to students, developers and learners. This blog site provides traditional tech blogs, removing the barriers of problems and anomalies. Fulfil the demands for students and developers to learn and resolve problems on their own.",
+      "isFork": false,
+      "languages": [
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
+        }
+      ]
+    },
+    {
+      "id": "MDEwOlJlcG9zaXRvcnkzNDk0ODczMjE=",
+      "name": "netflixclone",
+      "createdAt": "2021-03-19T16:28:15Z",
+      "url": "https://github.com/tamojit-123/netflixclone",
       "description": null,
       "isFork": false,
       "languages": [
         {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
+          "name": "HTML",
+          "iconifyClass": "logos-html-5"
+        },
+        {
+          "name": "CSS",
+          "iconifyClass": "logos-css-3"
+        },
+        {
+          "name": "JavaScript",
+          "iconifyClass": "logos-javascript"
         }
       ]
     }

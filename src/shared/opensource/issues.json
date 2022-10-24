@@ -1,5 +1,46 @@
 {
+  "closed": 1,
   "data": [
+    {
+      "id": "MDU6SXNzdWU4NDA3NTA2MTY=",
+      "closed": false,
+      "title": "There is no mongoose connectivity",
+      "createdAt": "2021-03-25T09:46:49Z",
+      "url": "https://github.com/jeetbafna/UserLoginNode/issues/2",
+      "number": 2,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "UserLoginNode",
+        "url": "https://github.com/jeetbafna/UserLoginNode",
+        "owner": {
+          "login": "jeetbafna",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/25198983?v=4",
+          "url": "https://github.com/jeetbafna"
+        }
+      }
+    },
+    {
+      "id": "MDU6SXNzdWU3OTY3OTk0OTA=",
+      "closed": true,
+      "title": "Picture not loading",
+      "createdAt": "2021-01-29T11:19:05Z",
+      "url": "https://github.com/tamojit-123/developerPortfolio/issues/3",
+      "number": 3,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "developerPortfolio",
+        "url": "https://github.com/tamojit-123/developerPortfolio",
+        "owner": {
+          "login": "tamojit-123",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+          "url": "https://github.com/tamojit-123"
+        }
+      }
+    },
     {
       "id": "MDU6SXNzdWU3ODgzNjA1ODc=",
       "closed": false,
@@ -15,13 +56,12 @@
         "url": "https://github.com/tamojit-123/Credit-Card-Fraud-Detection",
         "owner": {
           "login": "tamojit-123",
-          "avatarUrl": "https://avatars1.githubusercontent.com/u/40804626?u=99b413905d6c7183a4ca50c16b4b6f9c7b6d9b8a&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
           "url": "https://github.com/tamojit-123"
         }
       }
     }
   ],
-  "open": 1,
-  "closed": 0,
-  "totalCount": 1
+  "open": 2,
+  "totalCount": 3
 }

@@ -1,10 +1,274 @@
 {
+  "closed": 15,
   "data": [
+    {
+      "id": "PR_kwDOG4JTWs496PSa",
+      "title": "Create pages.yml",
+      "url": "https://github.com/Web-Splash/web-splash-2.0/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2022-08-27T17:37:09Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 94,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "web-splash-2.0",
+        "url": "https://github.com/Web-Splash/web-splash-2.0",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/87123107?v=4",
+          "login": "Web-Splash",
+          "url": "https://github.com/Web-Splash"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOG4JTWs496PHq",
+      "title": "package update",
+      "url": "https://github.com/Web-Splash/web-splash-2.0/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2022-08-27T17:32:46Z",
+      "number": 1,
+      "changedFiles": 5,
+      "additions": 3974,
+      "deletions": 7940,
+      "baseRepository": {
+        "name": "web-splash-2.0",
+        "url": "https://github.com/Web-Splash/web-splash-2.0",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/87123107?v=4",
+          "login": "Web-Splash",
+          "url": "https://github.com/Web-Splash"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NzEyNzQxMTY4",
+      "title": "use .mdx extension for example next.js mdx page",
+      "url": "https://github.com/mdx-js/mdx/pull/1612",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-08-14T08:05:18Z",
+      "number": 1612,
+      "changedFiles": 1,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mdx",
+        "url": "https://github.com/mdx-js/mdx",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37453691?v=4",
+          "login": "mdx-js",
+          "url": "https://github.com/mdx-js"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NzA2MDEzNjk3",
+      "title": "Added a component snippet",
+      "url": "https://github.com/mdx-js/mdx/pull/1606",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-08-08T09:45:00Z",
+      "number": 1606,
+      "changedFiles": 1,
+      "additions": 33,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "mdx",
+        "url": "https://github.com/mdx-js/mdx",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/37453691?v=4",
+          "login": "mdx-js",
+          "url": "https://github.com/mdx-js"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjMwNTMxMzQ3",
+      "title": "Create CODE_OF_CONDUCT.md",
+      "url": "https://github.com/tamojit-123/io-briefs/pull/7",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2021-05-05T11:55:58Z",
+      "number": 7,
+      "changedFiles": 1,
+      "additions": 128,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "io-briefs",
+        "url": "https://github.com/tamojit-123/io-briefs",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+          "login": "tamojit-123",
+          "url": "https://github.com/tamojit-123"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NjEzMTAyNTg1",
+      "title": "Create LICENSE",
+      "url": "https://github.com/rattlecoder123/movieapp/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2021-04-11T16:15:35Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "movieapp",
+        "url": "https://github.com/rattlecoder123/movieapp",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/22822936?u=1426419480cf7a5e43750618792c3176d2239435&v=4",
+          "login": "rattlecoder123",
+          "url": "https://github.com/rattlecoder123"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTcwNDk3OTUw",
+      "title": "Create LICENSE",
+      "url": "https://github.com/Harshvardhan211Shah/selfstudy/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2021-02-09T18:07:10Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 395,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "selfstudy",
+        "url": "https://github.com/Harshvardhan211Shah/selfstudy",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/39940937?v=4",
+          "login": "Harshvardhan211Shah",
+          "url": "https://github.com/Harshvardhan211Shah"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY1MTI3OTA2",
+      "title": "Added wave emoji",
+      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/110",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2021-02-01T12:05:56Z",
+      "number": 110,
+      "changedFiles": 3,
+      "additions": 38,
+      "deletions": 4,
+      "baseRepository": {
+        "name": "masterPortfolio",
+        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "login": "ashutosh1919",
+          "url": "https://github.com/ashutosh1919"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTY0OTk2MzIz",
+      "title": "Create LICENSE",
+      "url": "https://github.com/tamojit-123/io-briefs/pull/3",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2021-02-01T08:56:13Z",
+      "number": 3,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "io-briefs",
+        "url": "https://github.com/tamojit-123/io-briefs",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+          "login": "tamojit-123",
+          "url": "https://github.com/tamojit-123"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTYzNDE0NTkx",
+      "title": "Create LICENSE",
+      "url": "https://github.com/tamojit-123/developerPortfolio/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2021-01-28T17:13:50Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "developerPortfolio",
+        "url": "https://github.com/tamojit-123/developerPortfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+          "login": "tamojit-123",
+          "url": "https://github.com/tamojit-123"
+        }
+      }
+    },
+    {
+      "id": "MDExOlB1bGxSZXF1ZXN0NTYwNDA0MTE0",
+      "title": "Create LICENSE",
+      "url": "https://github.com/tamojit-123/Credit-Card-Fraud-Detection/pull/2",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2021-01-23T11:31:53Z",
+      "number": 2,
+      "changedFiles": 1,
+      "additions": 395,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "Credit-Card-Fraud-Detection",
+        "url": "https://github.com/tamojit-123/Credit-Card-Fraud-Detection",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+          "login": "tamojit-123",
+          "url": "https://github.com/tamojit-123"
+        }
+      }
+    },
     {
       "id": "MDExOlB1bGxSZXF1ZXN0NTU2MTY0MTk5",
       "title": "fixed html typos and mistakes",
       "url": "https://github.com/NishantTheProgrammer/ResumeBuilder/pull/1",
-      "state": "OPEN",
+      "state": "CLOSED",
       "mergedBy": null,
       "createdAt": "2021-01-16T11:57:59Z",
       "number": 1,
@@ -15,7 +279,7 @@
         "name": "ResumeBuilder",
         "url": "https://github.com/NishantTheProgrammer/ResumeBuilder",
         "owner": {
-          "avatarUrl": "https://avatars1.githubusercontent.com/u/52948955?u=ac154cdb4589ba6d4578f179bed3cde3d49fdfa8&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/52948955?u=ac154cdb4589ba6d4578f179bed3cde3d49fdfa8&v=4",
           "login": "NishantTheProgrammer",
           "url": "https://github.com/NishantTheProgrammer"
         }
@@ -36,7 +300,7 @@
         "name": "masterPortfolio",
         "url": "https://github.com/ashutosh1919/masterPortfolio",
         "owner": {
-          "avatarUrl": "https://avatars3.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "ashutosh1919",
           "url": "https://github.com/ashutosh1919"
         }
@@ -57,7 +321,7 @@
         "name": "javascript",
         "url": "https://github.com/airbnb/javascript",
         "owner": {
-          "avatarUrl": "https://avatars3.githubusercontent.com/u/698437?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/698437?v=4",
           "login": "airbnb",
           "url": "https://github.com/airbnb"
         }
@@ -69,7 +333,7 @@
       "url": "https://github.com/rattlecoder123/master-john-doe-portfolio/pull/1",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars0.githubusercontent.com/u/22822936?u=bba0b680811afc199fa218fa5b5d5b5af40c3495&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22822936?u=1426419480cf7a5e43750618792c3176d2239435&v=4",
         "url": "https://github.com/rattlecoder123",
         "login": "rattlecoder123"
       },
@@ -82,7 +346,7 @@
         "name": "master-john-doe-portfolio",
         "url": "https://github.com/rattlecoder123/master-john-doe-portfolio",
         "owner": {
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/22822936?u=bba0b680811afc199fa218fa5b5d5b5af40c3495&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/22822936?u=1426419480cf7a5e43750618792c3176d2239435&v=4",
           "login": "rattlecoder123",
           "url": "https://github.com/rattlecoder123"
         }
@@ -103,7 +367,7 @@
         "name": "masterPortfolio",
         "url": "https://github.com/ashutosh1919/masterPortfolio",
         "owner": {
-          "avatarUrl": "https://avatars3.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "ashutosh1919",
           "url": "https://github.com/ashutosh1919"
         }
@@ -124,7 +388,7 @@
         "name": "masterPortfolio",
         "url": "https://github.com/ashutosh1919/masterPortfolio",
         "owner": {
-          "avatarUrl": "https://avatars3.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "ashutosh1919",
           "url": "https://github.com/ashutosh1919"
         }
@@ -145,7 +409,7 @@
         "name": "masterPortfolio",
         "url": "https://github.com/ashutosh1919/masterPortfolio",
         "owner": {
-          "avatarUrl": "https://avatars3.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "ashutosh1919",
           "url": "https://github.com/ashutosh1919"
         }
@@ -166,7 +430,7 @@
         "name": "masterPortfolio",
         "url": "https://github.com/ashutosh1919/masterPortfolio",
         "owner": {
-          "avatarUrl": "https://avatars3.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "ashutosh1919",
           "url": "https://github.com/ashutosh1919"
         }
@@ -187,7 +451,7 @@
         "name": "masterPortfolio",
         "url": "https://github.com/ashutosh1919/masterPortfolio",
         "owner": {
-          "avatarUrl": "https://avatars3.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "ashutosh1919",
           "url": "https://github.com/ashutosh1919"
         }
@@ -199,7 +463,7 @@
       "url": "https://github.com/saadpasta/developerFolio/pull/289",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4",
         "url": "https://github.com/saadpasta",
         "login": "saadpasta"
       },
@@ -212,7 +476,7 @@
         "name": "developerFolio",
         "url": "https://github.com/saadpasta/developerFolio",
         "owner": {
-          "avatarUrl": "https://avatars2.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/23307811?u=eab46b153eef3f5183930e61898b462447af9219&v=4",
           "login": "saadpasta",
           "url": "https://github.com/saadpasta"
         }
@@ -224,7 +488,7 @@
       "url": "https://github.com/ashutosh1919/masterPortfolio/pull/94",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars3.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
         "url": "https://github.com/ashutosh1919",
         "login": "ashutosh1919"
       },
@@ -237,7 +501,7 @@
         "name": "masterPortfolio",
         "url": "https://github.com/ashutosh1919/masterPortfolio",
         "owner": {
-          "avatarUrl": "https://avatars3.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
           "login": "ashutosh1919",
           "url": "https://github.com/ashutosh1919"
         }
@@ -258,7 +522,7 @@
         "name": "bootstrap",
         "url": "https://github.com/twbs/bootstrap",
         "owner": {
-          "avatarUrl": "https://avatars0.githubusercontent.com/u/2918581?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/2918581?v=4",
           "login": "twbs",
           "url": "https://github.com/twbs"
         }
@@ -279,7 +543,7 @@
         "name": "quickstart-android",
         "url": "https://github.com/firebase/quickstart-android",
         "owner": {
-          "avatarUrl": "https://avatars2.githubusercontent.com/u/1335026?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1335026?v=4",
           "login": "firebase",
           "url": "https://github.com/firebase"
         }
@@ -300,7 +564,7 @@
         "name": "quickstart-js",
         "url": "https://github.com/firebase/quickstart-js",
         "owner": {
-          "avatarUrl": "https://avatars2.githubusercontent.com/u/1335026?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1335026?v=4",
           "login": "firebase",
           "url": "https://github.com/firebase"
         }
@@ -312,7 +576,7 @@
       "url": "https://github.com/firebase/quickstart-android/pull/1233",
       "state": "MERGED",
       "mergedBy": {
-        "avatarUrl": "https://avatars2.githubusercontent.com/u/8466666?u=e73da6a49cfa7250763b8dabab6ab15afb72407b&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8466666?u=e73da6a49cfa7250763b8dabab6ab15afb72407b&v=4",
         "url": "https://github.com/samtstern",
         "login": "samtstern"
       },
@@ -325,7 +589,7 @@
         "name": "quickstart-android",
         "url": "https://github.com/firebase/quickstart-android",
         "owner": {
-          "avatarUrl": "https://avatars2.githubusercontent.com/u/1335026?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/1335026?v=4",
           "login": "firebase",
           "url": "https://github.com/firebase"
         }
@@ -335,7 +599,7 @@
       "id": "MDExOlB1bGxSZXF1ZXN0NTQzOTY3MzA5",
       "title": "Authentication and warning",
       "url": "https://github.com/github/docs/pull/2278",
-      "state": "OPEN",
+      "state": "CLOSED",
       "mergedBy": null,
       "createdAt": "2020-12-22T08:44:26Z",
       "number": 2278,
@@ -346,15 +610,14 @@
         "name": "docs",
         "url": "https://github.com/github/docs",
         "owner": {
-          "avatarUrl": "https://avatars1.githubusercontent.com/u/9919?v=4",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/9919?v=4",
           "login": "github",
           "url": "https://github.com/github"
         }
       }
     }
   ],
-  "open": 2,
-  "closed": 10,
-  "merged": 4,
-  "totalCount": 16
+  "merged": 12,
+  "open": 0,
+  "totalCount": 27
 }

@@ -1,102 +1,252 @@
 /* Change this file to get your personal Portfolio */
 // Website related settings
 const settings = {
-  isSplash: false // Change this to false if you don't want Splash screen.
+  isSplash: true, // Change this to false if you don't want Splash screen.
 };
 
-//Home Page
+// Home Page
 const greeting = {
   title: "Tamojit Das",
   logo_name: "Tamojit  Das",
   nickname: "Hi!",
   subTitle:
-    "I'm a passionate frontend and backend Developer from India 🇮🇳 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / Firebase and some other cool libraries and frameworks.",
+    "I'm a passionate frontend and backend Developer from India 🇮🇳 🚀 having an experience of building Web applications with JavaScript | Reactjs/Angular | Nodejs | SpringBoot and some other cool libraries and frameworks.",
   resumeLink:
-    "https://drive.google.com/file/d/1nyfSVwLNQmPXChYIY2_qkl5O2Oay2eV1/view?usp=sharing",
-  portfolio_repository: "https://github.com/tamojit-123/studyportal"
+    "https://drive.google.com/file/d/1L-3vfcvP9JGwsElKy6hRwC8YXYu9FEW7/view?usp=sharing",
+  portfolio_repository: "https://github.com/tamojit-123/to-do-tracker",
 };
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  //github: "https://github.com/tamojit-123",
-  //linkedin: "https://www.linkedin.com/in/tamojit-das-365b19118/",
-  //gmail: "tamo.das.97@gmail.com",
-  //gitlab: "https://gitlab.com/tamojit-123",
-  //facebook: "https://www.facebook.com/tamojit.das.73/",
-  //medium: "https://medium.com/@tamo.das.97",
-  //stackoverflow: "https://stackoverflow.com/users/9829241/tamojit-das",
-  //twitter: "https://twitter.com/tamojitdas97"
-// Instagram and Twitter are also supported in the links!
+  // github: "https://github.com/tamojit-123",
+  // linkedin: "https://www.linkedin.com/in/tamojit-das-365b19118/",
+  // gmail: "tamo.das.97@gmail.com",
+  // gitlab: "https://gitlab.com/tamojit-123",
+  // facebook: "https://www.facebook.com/tamojit.das.73/",
+  // medium: "https://medium.com/@tamo.das.97",
+  // stackoverflow: "https://stackoverflow.com/users/9829241/tamojit-das",
+  // twitter: "https://twitter.com/tamojitdas97"
+  //  Instagram and Twitter are also supported in the links!
 
   {
     name: "Github",
     link: "https://github.com/tamojit-123",
-    fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
-    backgroundColor: "#181717" // Reference https://simpleicons.org/?q=github
+    fontAwesomeIcon: "fa-github", // Reference
+    // https://fontawesome.com/icons/github?style=brands
+    backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/tamojit-das-365b19118/",
-    fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
-    backgroundColor: "#0077B5" // Reference https://simpleicons.org/?q=linkedin
+    fontAwesomeIcon: "fa-linkedin-in", // Reference
+    // https://fontawesome.com/icons/linkedin-in?style=brands
+    backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
-  /*{
+  {
     name: "YouTube",
-    link: "https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
+    link: "https://www.youtube.com/channel/UCphDOBWR48-8Vg0VccrGJnw",
+    fontAwesomeIcon: "fa-youtube", // Reference
+    // https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
-  },*/
+  },
   {
     name: "Gmail",
     link: "mailto:tamo.das.97@gmail.com",
-    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
-    backgroundColor: "#D14836" // Reference https://simpleicons.org/?q=gmail
+    fontAwesomeIcon: "fa-google", // Reference
+    // https://fontawesome.com/icons/google?style=brands
+    backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "Twitter",
     link: "https://twitter.com/tamojitdas97",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
-    backgroundColor: "#1DA1F2" // Reference https://simpleicons.org/?q=twitter
+    fontAwesomeIcon: "fa-twitter", // Reference
+    // https://fontawesome.com/icons/twitter?style=brands
+    backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
   {
     name: "Facebook",
-    link: "https://www.facebook.com/tamojit.das.73/",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
-    backgroundColor: "#1877F2" // Reference https://simpleicons.org/?q=facebook
+    link: "https://www.facebook.com/websplashed",
+    fontAwesomeIcon: "fa-facebook-f", // Reference
+    // https://fontawesome.com/icons/facebook-f?style=brands
+    backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
   {
     name: "Instagram",
-    link: "https://www.instagram.com/t_for_tamojit/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
-    backgroundColor: "#E4405F" // Reference https://simpleicons.org/?q=instagram
-  }
+    link: "https://www.instagram.com/web.splash/",
+    fontAwesomeIcon: "fa-instagram", // Reference
+    // https://fontawesome.com/icons/instagram?style=brands
+    backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
+  },
 ];
 
 const skills = {
   data: [
+    {
+      title: "Full Stack Development",
+      fileName: "FullStackImg",
+      skills: [
+        "⚡ Building responsive website front end using React or Angular",
+        "⚡ Developing full stack applications using React or Angular, SpringBoot, RabbitMQ, MongoDB, JWT, Docker",
+        "⚡ Creating application backend in Node, Express & Spring Boot",
+      ],
+      softwareSkills: [
+        {
+          skillName: "HTML5",
+          fontAwesomeClassname: "simple-icons:html5",
+          style: {
+            color: "#E34F26",
+          },
+        },
+        {
+          skillName: "CSS3",
+          fontAwesomeClassname: "fa-css3",
+          style: {
+            color: "#1572B6",
+          },
+        },
+        {
+          skillName: "JavaScript",
+          fontAwesomeClassname: "simple-icons:javascript",
+          style: {
+            backgroundColor: "#000000",
+            color: "#F7DF1E",
+          },
+        },
+        {
+          skillName: "ReactJS",
+          fontAwesomeClassname: "simple-icons:react",
+          style: {
+            color: "#61DAFB",
+          },
+        },
+        {
+          skillName: "Angular",
+          fontAwesomeClassname: "simple-icons:angular",
+          style: {
+            color: "#DD0031",
+          },
+        },
+        {
+          skillName: "NodeJS",
+          fontAwesomeClassname: "simple-icons:node-dot-js",
+          style: {
+            color: "#339933",
+          },
+        },
+        {
+          skillName: "Spring",
+          fontAwesomeClassname: "simple-icons:spring",
+          style: {
+            color: "#6db33f",
+          },
+        },
+        {
+          skillName: "SpringBoot",
+          fontAwesomeClassname: "simple-icons:springboot",
+          style: {
+            color: "#6db33f",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "#2496ed",
+          },
+        },
+        {
+          skillName: "MongoDB",
+          fontAwesomeClassname: "simple-icons:mongodb",
+          style: {
+            color: "#47a248",
+          },
+        },
+        {
+          skillName: "MySQL",
+          fontAwesomeClassname: "simple-icons:mysql",
+          style: {
+            color: "#4479a1",
+          },
+        },
+        {
+          skillName: "Git",
+          fontAwesomeClassname: "simple-icons:git",
+          style: {
+            color: "#f05032",
+          },
+        },
+        {
+          skillName: "RabbitMQ",
+          fontAwesomeClassname: "simple-icons:rabbitmq",
+          style: {
+            color: "#ff6600",
+          },
+        },
+      ],
+    },
+    {
+      title: "Dev Ops",
+      fileName: "DevOpsImg",
+      skills: [
+        "⚡ Experience working on devops platforms like Jenkins and Travis CI for CI/CD",
+        "⚡ For deployment, I use Docker and Kubernetes",
+        "⚡ For monitoring, I use Splunk and Datadog",
+      ],
+      softwareSkills: [
+        {
+          skillName: "Jenkins",
+          fontAwesomeClassname: "simple-icons:jenkins",
+          style: {
+            color: "#D24939",
+          },
+        },
+        {
+          skillName: "Docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            backgroundColor: "transparent",
+            color: "#2496ED",
+          },
+        },
+        {
+          skillName: "DataDog",
+          fontAwesomeClassname: "simple-icons:datadog",
+          style: {
+            color: "#632CA6",
+          },
+        },
+        {
+          skillName: "Splunk",
+          fontAwesomeClassname: "simple-icons:Splunk",
+          style: {
+            color: "#313030",
+          },
+        },
+      ],
+    },
     {
       title: "Data Science & AI",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Developing highly scalable production ready models for various deeplearning and statistical use cases",
         "⚡ Experience of working with Computer Vision and NLP projects",
-        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis"
+        "⚡ Complex quantitative modelling for dynamic forecasting and time series analysis",
       ],
       softwareSkills: [
         {
           skillName: "Tensorflow",
           fontAwesomeClassname: "logos-tensorflow",
           style: {
-            backgroundColor: "transparent"
-          }
+            backgroundColor: "transparent",
+          },
         },
         {
           skillName: "Keras",
           fontAwesomeClassname: "simple-icons:keras",
           style: {
             backgroundColor: "white",
-            color: "#D00000"
-          }
+            color: "#D00000",
+          },
         },
         /*{
           skillName: "PyTorch",
@@ -110,92 +260,10 @@ const skills = {
           fontAwesomeClassname: "ion-logo-python",
           style: {
             backgroundColor: "transparent",
-            color: "#3776AB"
-          }
-        }
-      ]
-    },
-    {
-      title: "Full Stack Development",
-      fileName: "FullStackImg",
-      skills: [
-        "⚡ Building resposive website front end using React-Redux",
-        "⚡ Developing mobile applications using Flutter, React Native and solo android apps using Kotlin",
-        "⚡ Creating application backend in Node, Express & Flask"
+            color: "#3776AB",
+          },
+        },
       ],
-      softwareSkills: [
-        {
-          skillName: "HTML5",
-          fontAwesomeClassname: "simple-icons:html5",
-          style: {
-            color: "#E34F26"
-          }
-        },
-        {
-          skillName: "CSS3",
-          fontAwesomeClassname: "fa-css3",
-          style: {
-            color: "#1572B6"
-          }
-        },
-        {
-          skillName: "Sass",
-          fontAwesomeClassname: "simple-icons:sass",
-          style: {
-            color: "#CC6699"
-          }
-        },
-        {
-          skillName: "JavaScript",
-          fontAwesomeClassname: "simple-icons:javascript",
-          style: {
-            backgroundColor: "#000000",
-            color: "#F7DF1E"
-          }
-        },
-        {
-          skillName: "ReactJS",
-          fontAwesomeClassname: "simple-icons:react",
-          style: {
-            color: "#61DAFB"
-          }
-        },
-        {
-          skillName: "NodeJS",
-          fontAwesomeClassname: "simple-icons:node-dot-js",
-          style: {
-            color: "#339933"
-          }
-        },
-        {
-          skillName: "NPM",
-          fontAwesomeClassname: "simple-icons:npm",
-          style: {
-            color: "#CB3837"
-          }
-        },
-        {
-          skillName: "Yarn",
-          fontAwesomeClassname: "simple-icons:yarn",
-          style: {
-            color: "#2C8EBB"
-          }
-        },
-        {
-          skillName: "Gatsby",
-          fontAwesomeClassname: "simple-icons:gatsby",
-          style: {
-            color: "#663399",
-          },
-        },
-        {
-          skillName: "Flutter",
-          fontAwesomeClassname: "simple-icons:flutter",
-          style: {
-            color: "#02569B",
-          },
-        },
-      ]
     },
     {
       title: "Cloud Infra-Architecture",
@@ -203,67 +271,24 @@ const skills = {
       skills: [
         "⚡ Experience working on cloud platforms like Google cloud",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices"
+        "⚡ Deploying deep learning models on cloud to use on mobile devices",
       ],
       softwareSkills: [
         {
           skillName: "GCP",
           fontAwesomeClassname: "simple-icons:googlecloud",
           style: {
-            color: "#4285F4"
-          }
-        },
-        {
-          skillName: "AWS",
-          fontAwesomeClassname: "logos-aws",
-          style: {
-            backgroundColor: "transparent",
-            color: "#FF9900"
-          }
-        },
-        /*{
-          skillName: "Azure",
-          fontAwesomeClassname: "simple-icons:microsoftazure",
-          style: {
-            color: "#0089D6",
+            color: "#4285F4",
           },
-        },*/
+        },
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
           style: {
-            color: "#FFCA28"
-          }
-        },
-        /*{
-          skillName: "PostgreSQL",
-          fontAwesomeClassname: "simple-icons:postgresql",
-          style: {
-            color: "#336791",
+            color: "#FFCA28",
           },
         },
-        {
-          skillName: "MongoDB",
-          fontAwesomeClassname: "simple-icons:mongodb",
-          style: {
-            color: "#47A248",
-          },
-        },
-        {
-          skillName: "Docker",
-          fontAwesomeClassname: "simple-icons:docker",
-          style: {
-            color: "#1488C6",
-          },
-        },*/
-        {
-          skillName: "Kubernetes",
-          fontAwesomeClassname: "simple-icons:kubernetes",
-          style: {
-            color: "#326CE5"
-          }
-        }
-      ]
+      ],
     },
     {
       title: "UI/UX Design",
@@ -271,7 +296,7 @@ const skills = {
       skills: [
         "⚡ Designing highly attractive user interface for mobile and web applications",
         "⚡ Customizing logo designs and building logos from scratch",
-        "⚡ Creating the flow of application functionalities to optimize user experience"
+        "⚡ Creating the flow of application functionalities to optimize user experience",
       ],
       softwareSkills: [
         /*{
@@ -285,9 +310,9 @@ const skills = {
           skillName: "Figma",
           fontAwesomeClassname: "grommet-icons:figma",
           style: {
-            color: "#F24E1E"
-          }
-        }
+            color: "#F24E1E",
+          },
+        },
         /*{
           skillName: "Adobe Illustrator",
           fontAwesomeClassname: "simple-icons:adobeillustrator",
@@ -302,9 +327,9 @@ const skills = {
             color: "#000000",
           },
         },*/
-      ]
-    }
-  ]
+      ],
+    },
+  ],
 };
 
 // Education Page
@@ -315,47 +340,52 @@ const competitiveSites = {
       logo_path: "MTA.png",
       alt_name: "Microsoft Technology Associate",
       style: {
-        color: "#2EC866"
+        color: "#2EC866",
       },
-      profileLink: "https://www.youracclaim.com/badges/7344efb7-4533-4c53-a962-5fe5eb9c164d/public_url"
+      profileLink:
+        "https://www.youracclaim.com/badges/7344efb7-4533-4c53-a962-5fe5eb9c164d/public_url",
     },
     {
       siteName: "IBM",
       logo_path: "DataScience.png",
       alt_name: "Data Science",
       style: {
-        color: "#5B4638"
+        color: "#5B4638",
       },
-      profileLink: "https://www.youracclaim.com/badges/f44aeb20-03ec-4e1c-9d90-ba1760d033ab/public_url"
+      profileLink:
+        "https://www.youracclaim.com/badges/f44aeb20-03ec-4e1c-9d90-ba1760d033ab/public_url",
     },
     {
       siteName: "IBM",
       logo_path: "MachineLearning.png",
       alt_name: "Machine Learning",
       style: {
-        color: "#1F8ACB"
+        color: "#1F8ACB",
       },
-      profileLink: "https://www.youracclaim.com/badges/f0ead3b3-c59c-4984-a56a-617ff617ccb0/public_url"
+      profileLink:
+        "https://www.youracclaim.com/badges/f0ead3b3-c59c-4984-a56a-617ff617ccb0/public_url",
     },
     {
       siteName: "IBM",
       logo_path: "Python.png",
       alt_name: "Python 101",
       style: {
-        color: "#323754"
+        color: "#323754",
       },
-      profileLink: "https://www.youracclaim.com/badges/c94717d4-450a-450d-8cce-61e6781dc5c1/public_url"
+      profileLink:
+        "https://www.youracclaim.com/badges/c94717d4-450a-450d-8cce-61e6781dc5c1/public_url",
     },
     {
       siteName: "GoogleCloud",
       logo_path: "gcpskill.png",
       alt_name: "Google Cloud",
       style: {
-        color: "#20BEFF"
+        color: "#20BEFF",
       },
-      profileLink: "https://www.qwiklabs.com/public_profiles/abab4aba-1874-46b2-a18c-32b12fc4828f"
-    }
-  ]
+      profileLink:
+        "https://www.qwiklabs.com/public_profiles/abab4aba-1874-46b2-a18c-32b12fc4828f",
+    },
+  ],
 };
 
 const degrees = {
@@ -365,15 +395,15 @@ const degrees = {
       subtitle: "B.Tech. in Computer Science and Engineering 🎓",
       logo_path: "Amity_University_logo.png",
       alt_name: "Amity University Kolkata",
-        duration: "2016 - 2020",
+      duration: "2016 - 2020",
       descriptions: [
         "⚡ I have studied basic software engineering subjects like DS, Algorithms, DBMS, OS, CA, AI etc.",
         "⚡ Apart from this, I have done courses on Deep Learning, Data Science, Computer Networking and Cyber Security.",
-        "⚡ Attended Workshop on Machine Learning and Artificial Intelligence organized by Intel."
+        "⚡ Attended Workshop on Machine Learning and Artificial Intelligence organized by Intel.",
       ],
-      website_link: "https://www.amity.edu/kolkata/"
-    }
-  ]
+      website_link: "https://www.amity.edu/kolkata/",
+    },
+  ],
 };
 
 const certifications = {
@@ -385,16 +415,15 @@ const certifications = {
       certificate_link:
         "https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/96bda8a1-3a07-4a4a-8a92-d3952b37691b.pdf?utm_campaign=sch_600_auto_ndxxx_aws-ml-completed_global&utm_source=blueshift&utm_medium=email&utm_content=sch_600_auto_ndxxx_aws-ml-complet",
       alt_name: "Udacity",
-      color_code: "#03b3e4"
+      color_code: "#03b3e4",
     },
     {
       title: "Digital Skill: AI",
       subtitle: "- Accenture",
       logo_path: "Accenture-Logo.png",
-      certificate_link:
-        "https://www.futurelearn.com/certificates/2u08y85",
+      certificate_link: "https://www.futurelearn.com/certificates/2u08y85",
       alt_name: "Accenture DS:AI",
-      color_code: "rgb(255,255,255)"
+      color_code: "rgb(255,255,255)",
     },
     {
       title: "Google Web Designer Basics",
@@ -403,7 +432,7 @@ const certifications = {
       certificate_link:
         "https://skillshop.exceedlms.com/student/award/53877208",
       alt_name: "Google",
-      color_code: "rgb(255,255,255)"
+      color_code: "rgb(255,255,255)",
     },
     {
       title: "Introduction to Data Science",
@@ -412,7 +441,7 @@ const certifications = {
       certificate_link:
         "https://courses.cognitiveclass.ai/certificates/95dcfe4f870c4183b536a11858be9bdf",
       alt_name: "IBM",
-      color_code: "rgb(255,255,255)"
+      color_code: "rgb(255,255,255)",
     },
     {
       title: "Python for Data Science",
@@ -421,7 +450,7 @@ const certifications = {
       certificate_link:
         "https://courses.cognitiveclass.ai/certificates/60118d62b0f041a9855340551b6e42cd",
       alt_name: "IBM",
-      color_code: "rgb(255,255,255)"
+      color_code: "rgb(255,255,255)",
     },
     {
       title: "Machine Learning with Python",
@@ -430,7 +459,7 @@ const certifications = {
       certificate_link:
         "https://courses.cognitiveclass.ai/certificates/f40bb027b22642d6b55a65da3cd2fca8",
       alt_name: "IBM",
-      color_code: "rgb(255,255,255)"
+      color_code: "rgb(255,255,255)",
     },
     {
       title: "Introduction to programming using python",
@@ -439,7 +468,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1r92Xpg28jzH2dx2buQ88tBvdd71S7SoX/view",
       alt_name: "Microsoft Imagine Academy",
-      color_code: "rgb(255,255,255)"
+      color_code: "rgb(255,255,255)",
     },
     {
       title: "GCP Business Professional Accreditation",
@@ -448,7 +477,7 @@ const certifications = {
       certificate_link:
         "https://skillshop.exceedlms.com/student/award/53834259",
       alt_name: "Google",
-      color_code: "rgb(255,255,255)"
+      color_code: "rgb(255,255,255)",
     },
     {
       title: "Full Stack Web Development",
@@ -457,7 +486,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1sXcUf13hYFWxTthhShNbcN7iUaC9p5o5/view?usp=sharing",
       alt_name: "ungineering",
-      color_code: "#EDEFF0"
+      color_code: "#EDEFF0",
     },
     {
       title: "MTA- Introduction to Python",
@@ -466,7 +495,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1boTMSXyzSzK34Co-lRIWrnQ-LX1GOwFV/view",
       alt_name: "Microsoft",
-      color_code: "#FFFFFF"
+      color_code: "#FFFFFF",
     },
     {
       title: "Data Science & AI with Python",
@@ -475,7 +504,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1KyF5ypxDkeSuKNwiZ-IPCmyKbz-s-xn0/view",
       alt_name: "Niit",
-      color_code: "#FFFFFF"
+      color_code: "#FFFFFF",
     },
     {
       title: "Network Ninja To Cloud Ninja",
@@ -484,7 +513,7 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/16H-yI6oy1XCT5QCTpDr3_41HqrLeaMqB/view",
       alt_name: "AWS",
-      color_code: "#232F3F"
+      color_code: "#232F3F",
     },
     {
       title: "Google Analytics Certification Course",
@@ -493,12 +522,22 @@ const certifications = {
       certificate_link:
         "https://drive.google.com/file/d/1zrPOgZaaotPI8BaHotblPMv2rDfkcxB-/view?usp=sharing",
       alt_name: "Google",
-      color_code: "#FFFFFF"
-    }
-  ]
+      color_code: "#FFFFFF",
+    },
+    {
+      title: "Full Stack Software Engineering",
+      subtitle: "- StackRoute",
+      logo_path: "stack.png",
+      certificate_link:
+        "https://drive.google.com/file/d/1NqNL5JQTgDrTZqsR4pA_EXu_bH-bO2PL/view?usp=sharing",
+      alt_name: "stackRoute",
+      color_code: "#dca0a0",
+    },
+  ],
 };
 // Your Achievement Section Include Your Certification Talks and More
-// to edit achievements and badges in your portfolio edit AchievementCard.js to add badges or awards etc.
+// to edit achievements and badges in your portfolio edit AchievementCard.js to
+// add badges or awards etc.
 
 // Experience Page
 const experience = {
@@ -512,15 +551,27 @@ const experience = {
       title: "Work",
       experiences: [
         {
+          title: "Associate Software Engineer",
+          company: "AllState",
+          company_url: "https://www.allstateindia.com/",
+          logo_path: "allstateindia-horizontal.png",
+          duration: "June 2022 - PRESENT",
+          location: "Bangalore, Karnataka",
+          description:
+            "I am working as a full stack Software Engineer and backend engineer",
+          color: "#0879bf",
+        },
+        {
           title: "Full stack web developer",
-          company: "StudyMatrix™",
-          company_url: "https://studymatrix.netlify.app/",
-          logo_path: "studymatrix.png",
-          duration: "June 2019 - PRESENT",
+          company: "WebSplash™",
+          company_url:
+            "https://www.youtube.com/channel/UCphDOBWR48-8Vg0VccrGJnw",
+          logo_path: "logo-removebg-preview.png",
+          duration: "June 2019 - 2021",
           location: "Kolkata, West Bengal",
           description:
-            "I am working as a full stack web developer and backend engineer working in (This Website is built on Firebase and firebase real time database as backend and HTML, CSS, JavaScript framework as frontend with Google APIs.)",
-          color: "#0879bf"
+            "I am working as a full stack web developer and also as a content creator",
+          color: "#0FD0CB",
         },
         {
           title: "Student Member",
@@ -532,7 +583,7 @@ const experience = {
           description:
             "I worked as a Student Member in project. One Premier Organization with Non-Profit Status | Regd. Under Govt. of WB Inspired By National Task Force on IT & SD Govt. of India.\n" +
             "National IT and Cyber Security Research Association Registered Body Under Govt.of WB Based on TR Act - Section-4. Associated with Association of Research Scholars, Association of Fellow Engineers, Offering Honorary Membership, Fellowship to Eminent Educationist.",
-          color: "#9b1578"
+          color: "#9b1578",
         },
         {
           title: "Artificial Intelligence",
@@ -548,9 +599,9 @@ const experience = {
             "One Premier Organization with Non-Profit Status | Regd. Under Govt. of WB | Reg. No: IV-190305335/2018\n" +
             "Inspired By: National Task Force on IT & SD Govt. of India\n" +
             "Program Code: SVT-19-XII-005",
-          color: "#fc1f20"
-        }
-      ]
+          color: "#fc1f20",
+        },
+      ],
     },
     {
       title: "Internships",
@@ -564,7 +615,7 @@ const experience = {
           location: "Kolkata, West Bengal",
           description:
             "I have worked on project for clients given to the company, worked on Java, MySql and server and backend development etc.",
-          color: "#ee3c26"
+          color: "#ee3c26",
         },
         {
           title: "Virtual Internship in documentation",
@@ -585,9 +636,9 @@ const experience = {
             "Skills\n" +
             "5. Work Ready Skills\n" +
             "6. Technical Engineering skill",
-          color: "#ee3c26"
-        }
-      ]
+          color: "#ee3c26",
+        },
+      ],
     },
     {
       title: "Volunteer experience",
@@ -601,7 +652,7 @@ const experience = {
           location: "Bangalore, Karnataka",
           description:
             "ECA0323- Worked as a campus ambassador, representing my campus and coordinating various companies like HDFC etc. and Guests, entrepreneurs and guiding them and coordinating them through everything during event.",
-          color: "#4285F4"
+          color: "#4285F4",
         },
         {
           title: "All India Campus Ambassador",
@@ -612,7 +663,7 @@ const experience = {
           location: "Kolkata, West Bengal",
           description:
             "Collecting information through social media, and interacting participants and clients through social media and managing social media.",
-          color: "#D83B01"
+          color: "#D83B01",
         },
         {
           title: "Arctic Code Vault Contributor",
@@ -623,7 +674,7 @@ const experience = {
           location: "Work From Home",
           description:
             "I am actively contributing to many opensource projects. I have contributed to projects of organisations like Tensorflow, github, firebase etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          color: "#181717"
+          color: "#181717",
         },
         {
           title: "Developer Program Member",
@@ -634,11 +685,11 @@ const experience = {
           location: "Work From Home",
           description:
             "I am actively contributing to many opensource projects with github API. I have contributed to projects of organisations like Tensorflow, github, firebase etc. These contributions include bug fixes, feature requests and formulating proper documentation for project.",
-          color: "#181717"
-        }
-      ]
-    }
-  ]
+          color: "#181717",
+        },
+      ],
+    },
+  ],
 };
 
 // Projects Page
@@ -646,7 +697,7 @@ const projectsHeader = {
   title: "Projects",
   description:
     "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
-  avatar_image_path: "projects_image.svg"
+  avatar_image_path: "projects_image.svg",
 };
 
 // Contact Page
@@ -656,27 +707,26 @@ const contactPageData = {
     profile_image_path: "tamojit_das.png",
     avatar_image_path: "socialmedia.svg",
     description:
-      "I am available on almost every social media. You can DM me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development."
+      "I am available on almost every social media. You can DM me, I will reply within 24 hours. I can help you with Web Development, Backend Development and Opensource Development.",
   },
   blogSection: {
     title: "Blogs",
     subtitle:
-      "For individual fundamental empowerment, I like to write powerful lessons. \"Supporting developers at every stage. Deliver guides for curious minds ✌.\"\n" +
+      'For individual fundamental empowerment, I like to write powerful lessons. "Supporting developers at every stage. Deliver guides for curious minds ✌."\n' +
       "-Tamojit Das",
     link: "https://iobriefs.netlify.app/",
-    avatar_image_path: "choice.svg"
+    avatar_image_path: "choice.svg",
   },
   addressSection: {
     title: "Address",
-    subtitle:
-      "Rajarhat Gopalpur, West Bengal, Kolkata - 700136",
+    subtitle: "Bangalore, Karnataka, India",
     avatar_image_path: "address.svg",
-    location_map_link: "https://goo.gl/maps/PGF16v2F3SwNcB6H6"
+    location_map_link: "https://g.page/AllstateIndia?share",
   },
   phoneSection: {
-    title: "Phone Number",
-    subtitle: "+91 9123780018"
-  }
+    title: "Email",
+    subtitle: "tamo.das.97@gmail.com",
+  },
 };
 
 export {
@@ -689,5 +739,5 @@ export {
   certifications,
   experience,
   projectsHeader,
-  contactPageData
+  contactPageData,
 };
