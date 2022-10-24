@@ -4,7 +4,7 @@ const settings = {
   isSplash: true, // Change this to false if you don't want Splash screen.
 };
 
-//Home Page
+// Home Page
 const greeting = {
   title: "Tamojit Das",
   logo_name: "Tamojit  Das",
@@ -18,56 +18,63 @@ const greeting = {
 
 const socialMediaLinks = [
   /* Your Social Media Link */
-  //github: "https://github.com/tamojit-123",
-  //linkedin: "https://www.linkedin.com/in/tamojit-das-365b19118/",
-  //gmail: "tamo.das.97@gmail.com",
-  //gitlab: "https://gitlab.com/tamojit-123",
-  //facebook: "https://www.facebook.com/tamojit.das.73/",
-  //medium: "https://medium.com/@tamo.das.97",
-  //stackoverflow: "https://stackoverflow.com/users/9829241/tamojit-das",
-  //twitter: "https://twitter.com/tamojitdas97"
-  // Instagram and Twitter are also supported in the links!
+  // github: "https://github.com/tamojit-123",
+  // linkedin: "https://www.linkedin.com/in/tamojit-das-365b19118/",
+  // gmail: "tamo.das.97@gmail.com",
+  // gitlab: "https://gitlab.com/tamojit-123",
+  // facebook: "https://www.facebook.com/tamojit.das.73/",
+  // medium: "https://medium.com/@tamo.das.97",
+  // stackoverflow: "https://stackoverflow.com/users/9829241/tamojit-das",
+  // twitter: "https://twitter.com/tamojitdas97"
+  //  Instagram and Twitter are also supported in the links!
 
   {
     name: "Github",
     link: "https://github.com/tamojit-123",
-    fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
+    fontAwesomeIcon: "fa-github", // Reference
+    // https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
   {
     name: "LinkedIn",
     link: "https://www.linkedin.com/in/tamojit-das-365b19118/",
-    fontAwesomeIcon: "fa-linkedin-in", // Reference https://fontawesome.com/icons/linkedin-in?style=brands
+    fontAwesomeIcon: "fa-linkedin-in", // Reference
+    // https://fontawesome.com/icons/linkedin-in?style=brands
     backgroundColor: "#0077B5", // Reference https://simpleicons.org/?q=linkedin
   },
   {
     name: "YouTube",
     link: "https://www.youtube.com/channel/UCphDOBWR48-8Vg0VccrGJnw",
-    fontAwesomeIcon: "fa-youtube", // Reference https://fontawesome.com/icons/youtube?style=brands
+    fontAwesomeIcon: "fa-youtube", // Reference
+    // https://fontawesome.com/icons/youtube?style=brands
     backgroundColor: "#FF0000", // Reference https://simpleicons.org/?q=youtube
   },
   {
     name: "Gmail",
     link: "mailto:tamo.das.97@gmail.com",
-    fontAwesomeIcon: "fa-google", // Reference https://fontawesome.com/icons/google?style=brands
+    fontAwesomeIcon: "fa-google", // Reference
+    // https://fontawesome.com/icons/google?style=brands
     backgroundColor: "#D14836", // Reference https://simpleicons.org/?q=gmail
   },
   {
     name: "Twitter",
     link: "https://twitter.com/tamojitdas97",
-    fontAwesomeIcon: "fa-twitter", // Reference https://fontawesome.com/icons/twitter?style=brands
+    fontAwesomeIcon: "fa-twitter", // Reference
+    // https://fontawesome.com/icons/twitter?style=brands
     backgroundColor: "#1DA1F2", // Reference https://simpleicons.org/?q=twitter
   },
   {
     name: "Facebook",
     link: "https://www.facebook.com/websplashed",
-    fontAwesomeIcon: "fa-facebook-f", // Reference https://fontawesome.com/icons/facebook-f?style=brands
+    fontAwesomeIcon: "fa-facebook-f", // Reference
+    // https://fontawesome.com/icons/facebook-f?style=brands
     backgroundColor: "#1877F2", // Reference https://simpleicons.org/?q=facebook
   },
   {
     name: "Instagram",
     link: "https://www.instagram.com/web.splash/",
-    fontAwesomeIcon: "fa-instagram", // Reference https://fontawesome.com/icons/instagram?style=brands
+    fontAwesomeIcon: "fa-instagram", // Reference
+    // https://fontawesome.com/icons/instagram?style=brands
     backgroundColor: "#E4405F", // Reference https://simpleicons.org/?q=instagram
   },
 ];
@@ -529,7 +536,8 @@ const certifications = {
   ],
 };
 // Your Achievement Section Include Your Certification Talks and More
-// to edit achievements and badges in your portfolio edit AchievementCard.js to add badges or awards etc.
+// to edit achievements and badges in your portfolio edit AchievementCard.js to
+// add badges or awards etc.
 
 // Experience Page
 const experience = {
