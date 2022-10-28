@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.1ad5b265.css",
-    "main.js": "./static/js/main.5679e681.js",
+    "main.js": "./static/js/main.2da1f948.js",
     "static/media/fa-solid-900.svg": "./static/media/fa-solid-900.decfdcb63165be4a18b6.svg",
     "static/media/fa-brands-400.svg": "./static/media/fa-brands-400.d21386c92d7f4fbf03dc.svg",
     "static/media/tamojitdas.svg": "./static/media/tamojitdas.f4f6d5edcfa62c4feb82.svg",
@@ -33,6 +33,7 @@
     "static/media/fa-brands-400.woff2": "./static/media/fa-brands-400.1c638e5f7632ea819e77.woff2",
     "static/media/DataScience.png": "./static/media/DataScience.5e9cd1850dacd98c7f98.png",
     "static/media/Python.png": "./static/media/Python.fd2ea00eb0ff8001a144.png",
+    "static/media/animateTamo.png": "./static/media/animateTamo.7bdec089be75c3ddc3df.png",
     "static/media/ui_ux_design.svg": "./static/media/ui_ux_design.854347223a55d818e24e.svg",
     "static/media/MTA.png": "./static/media/MTA.eb68f80dad5234507aab.png",
     "static/media/manOnTable.svg": "./static/media/manOnTable.8f117eb207e57ed8f89d.svg",
@@ -75,10 +76,10 @@
     "static/media/talksCardBackAlt.svg": "./static/media/talksCardBackAlt.6a48aa5b1199a0c0214f.svg",
     "static/media/talksCardBack.svg": "./static/media/talksCardBack.31f4e73428eb4215e54a.svg",
     "main.1ad5b265.css.map": "./static/css/main.1ad5b265.css.map",
-    "main.5679e681.js.map": "./static/js/main.5679e681.js.map"
+    "main.2da1f948.js.map": "./static/js/main.2da1f948.js.map"
   },
   "entrypoints": [
     "static/css/main.1ad5b265.css",
-    "static/js/main.5679e681.js"
+    "static/js/main.2da1f948.js"
   ]
 }
