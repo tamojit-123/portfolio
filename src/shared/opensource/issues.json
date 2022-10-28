@@ -2,6 +2,26 @@
   "closed": 1,
   "data": [
     {
+      "id": "I_kwDOE9qIeM5U9adr",
+      "closed": false,
+      "title": "Fix code scanning alert - Incomplete string escaping or encoding",
+      "createdAt": "2022-10-27T10:12:24Z",
+      "url": "https://github.com/tamojit-123/portfolio/issues/26",
+      "number": 26,
+      "assignees": {
+        "nodes": []
+      },
+      "repository": {
+        "name": "portfolio",
+        "url": "https://github.com/tamojit-123/portfolio",
+        "owner": {
+          "login": "tamojit-123",
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+          "url": "https://github.com/tamojit-123"
+        }
+      }
+    },
+    {
       "id": "MDU6SXNzdWU4NDA3NTA2MTY=",
       "closed": false,
       "title": "There is no mongoose connectivity",
@@ -62,6 +82,6 @@
       }
     }
   ],
-  "open": 2,
-  "totalCount": 3
+  "open": 3,
+  "totalCount": 4
 }

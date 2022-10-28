@@ -7,7 +7,6 @@ import { Fade } from "react-reveal";
 import FeelingProud from "./FeelingProud";
 import emoji from "react-easy-emoji";
 
-
 export default function Greeting(props) {
   const theme = props.theme;
   return (
@@ -47,9 +46,9 @@ export default function Greeting(props) {
           </div>
           <div className="greeting-image-div">
             <img
-              className= "image"
+              className="image"
               alt="saad sitting on table"
-              src={require("../../assets/images/tamojit_dastamojit_das.png")}
+              src={require("../../assets/images/animateTamo.png")}
             />
             {/*<FeelingProud theme={theme} />*/}
           </div>

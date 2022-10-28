@@ -1,6 +1,173 @@
 {
-  "closed": 15,
+  "closed": 16,
   "data": [
+    {
+      "id": "PR_kwDOIUiKA85Bu38h",
+      "title": "create post: PUBG New State announced",
+      "url": "https://github.com/Web-Splash/web-splash-3.0/pull/1",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2022-10-28T08:44:59Z",
+      "number": 1,
+      "changedFiles": 1,
+      "additions": 38,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "web-splash-3.0",
+        "url": "https://github.com/Web-Splash/web-splash-3.0",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/87123107?v=4",
+          "login": "Web-Splash",
+          "url": "https://github.com/Web-Splash"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDODqGIis5BriK4",
+      "title": "Update package-lock.json",
+      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/254",
+      "state": "CLOSED",
+      "mergedBy": null,
+      "createdAt": "2022-10-27T16:13:09Z",
+      "number": 254,
+      "changedFiles": 0,
+      "additions": 0,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "masterPortfolio",
+        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "login": "ashutosh1919",
+          "url": "https://github.com/ashutosh1919"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDODqGIis5BqFJf",
+      "title": "Theme Patch🚀 : New theme added in theme.js and new Theme attributes added.",
+      "url": "https://github.com/ashutosh1919/masterPortfolio/pull/253",
+      "state": "OPEN",
+      "mergedBy": null,
+      "createdAt": "2022-10-27T11:19:46Z",
+      "number": 253,
+      "changedFiles": 5,
+      "additions": 85,
+      "deletions": 6,
+      "baseRepository": {
+        "name": "masterPortfolio",
+        "url": "https://github.com/ashutosh1919/masterPortfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/20843596?u=6deb5872cde2e3ab5bf5d48ece503bc8b5b0bcf6&v=4",
+          "login": "ashutosh1919",
+          "url": "https://github.com/ashutosh1919"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOG4JTWs5BhWju",
+      "title": "Create codeql.yml",
+      "url": "https://github.com/Web-Splash/web-splash-2.0/pull/6",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2022-10-25T17:58:08Z",
+      "number": 6,
+      "changedFiles": 1,
+      "additions": 74,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "web-splash-2.0",
+        "url": "https://github.com/Web-Splash/web-splash-2.0",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/87123107?v=4",
+          "login": "Web-Splash",
+          "url": "https://github.com/Web-Splash"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOG4JTWs5BhWVl",
+      "title": "Create SECURITY.md",
+      "url": "https://github.com/Web-Splash/web-splash-2.0/pull/5",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2022-10-25T17:57:11Z",
+      "number": 5,
+      "changedFiles": 1,
+      "additions": 21,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "web-splash-2.0",
+        "url": "https://github.com/Web-Splash/web-splash-2.0",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/87123107?v=4",
+          "login": "Web-Splash",
+          "url": "https://github.com/Web-Splash"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOG4JTWs5BhWGj",
+      "title": "Create dependency-review.yml",
+      "url": "https://github.com/Web-Splash/web-splash-2.0/pull/4",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2022-10-25T17:56:15Z",
+      "number": 4,
+      "changedFiles": 1,
+      "additions": 20,
+      "deletions": 0,
+      "baseRepository": {
+        "name": "web-splash-2.0",
+        "url": "https://github.com/Web-Splash/web-splash-2.0",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/87123107?v=4",
+          "login": "Web-Splash",
+          "url": "https://github.com/Web-Splash"
+        }
+      }
+    },
+    {
+      "id": "PR_kwDOE9qIeM5Bb3sX",
+      "title": "web site enhancement with : patch:1.1.2",
+      "url": "https://github.com/tamojit-123/portfolio/pull/24",
+      "state": "MERGED",
+      "mergedBy": {
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+        "url": "https://github.com/tamojit-123",
+        "login": "tamojit-123"
+      },
+      "createdAt": "2022-10-24T18:15:50Z",
+      "number": 24,
+      "changedFiles": 17,
+      "additions": 92539,
+      "deletions": 3717,
+      "baseRepository": {
+        "name": "portfolio",
+        "url": "https://github.com/tamojit-123/portfolio",
+        "owner": {
+          "avatarUrl": "https://avatars.githubusercontent.com/u/40804626?u=18d3aa7358bdc5b614e90c935f02b441398572c8&v=4",
+          "login": "tamojit-123",
+          "url": "https://github.com/tamojit-123"
+        }
+      }
+    },
     {
       "id": "PR_kwDOG4JTWs496PSa",
       "title": "Create pages.yml",
@@ -617,7 +784,7 @@
       }
     }
   ],
-  "merged": 12,
-  "open": 0,
-  "totalCount": 27
+  "merged": 17,
+  "open": 1,
+  "totalCount": 34
 }
