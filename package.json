@@ -10,6 +10,8 @@
     "eject": "react-scripts eject",
     "gitscript": "node git_data_fetcher.js",
     "install": "npm install",
+    "netlify:deploy": "netlify deploy",
+    "netlify:deployProd": "netlify deploy --prod",
     "start": "react-scripts start",
     "test": "react-scripts test"
   },
